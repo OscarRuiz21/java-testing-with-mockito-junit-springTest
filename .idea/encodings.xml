@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/springboot_test_TestRestTemplate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_test_WebTestClient/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_test_data_jpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_test_services_test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_test_web_controllers/src/main/java" charset="UTF-8" />
+  </component>
+</project>
